@@ -11,3 +11,4 @@ neural network is divided into
 4. fully connected layer : dense function used to define activation function and units( for multiclass more than 1 units and for binary class units = 1)
 then compiler functions helps to define optimizer and loss ( for binary classification loss='binary_crossentropy' and more than 2 categorical classification 
 loss='categorical_crossentropy')
+activation function : this functions helps to reduce linearity. because CNN simply works like linear regression if we will not use any activation function.
